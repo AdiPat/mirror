@@ -2,6 +2,8 @@
 
 MIRROR is a tool for self-exploration and language reflection through interactive dialogue. It helps users observe and understand their patterns of thought, tone, and expression by progressively adapting to their communication style.
 
+<p align="center"><img src="https://i.ibb.co/WpvpYVnT/mirror-logo.png" width="280" alt="MIRROR, by AdiPat Logo"></p>
+
 > 🌞 Inspired by my Meditation Teachers Shinzen Young, Sadhguru, and Bhante Gunaratana. They have been pivotal in my life's journey, inspiring me at every stage to understand myself at all levels. The goal of MIRROR is to to become full-fledged human beings, and share human goodness through the craft of programming.
 
 Built with a hacker-first mindset for the open-source (FOSS) and research communities.
